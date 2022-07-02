@@ -1,6 +1,7 @@
 // Mesure une température et l'affiche sur une bare de leds
 //
-// 2022-07-01 Pierre Rossel  Version initiale pour NS Magic - Y-fablab
+// 2022-07-01 Pierre Rossel  Version initiale pour NVA-1986 - Y-fablab
+// https://github.com/prossel/Arduino-Temperature-Bargraph
 
 
 // Sensor
